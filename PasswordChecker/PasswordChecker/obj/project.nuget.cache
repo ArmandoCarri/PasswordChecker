@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "X4qZBMw8NlA=",
+  "dgSpecHash": "n2wvgAZpteg=",
   "success": true,
   "projectFilePath": "/Users/armandocarrillo/RiderProjects/PasswordChecker/PasswordChecker/PasswordChecker/PasswordChecker.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/armandocarrillo/.nuget/packages/microsoft.netcore.app.ref/9.0.13/microsoft.netcore.app.ref.9.0.13.nupkg.sha512",
+    "/Users/armandocarrillo/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.13/microsoft.aspnetcore.app.ref.9.0.13.nupkg.sha512",
+    "/Users/armandocarrillo/.nuget/packages/microsoft.netcore.app.host.osx-arm64/9.0.13/microsoft.netcore.app.host.osx-arm64.9.0.13.nupkg.sha512"
+  ],
   "logs": []
 }
