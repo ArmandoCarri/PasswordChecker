@@ -7,7 +7,7 @@ How to run: The program was created in the Jetbrain Rider IDE using .NET SDK 9.0
 With .NET SDK 9.0 installed...
 1. Download folder
 2. Open Terminal
-3. In command prompt: cd (downloads)/PasswordChecker-main/PasswordChecker/PasswordChecker
+3. In command prompt: cd (your downloads file path)/PasswordChecker-main/PasswordChecker/PasswordChecker
 4. In command prompt: dotnet run
 
 Limitations and Responsible Use: This is an unsecure and inaccurate password strength checker used for education purposes only. It is NOT an accurate way to measure a password's strength. Please take the results of this software with caution and expect the results to be inaccurate. I am NOT liable for issues resulting from the output of this software. Depending on the output of this software, it CAN lead to a false sense of security. Regardless of the output of this software, your password CAN be weak and vulnerable to brute force.
